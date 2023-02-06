@@ -5,6 +5,9 @@ import App from './App';
 import configureStore from "./redux/store";
 import {Provider} from "react-redux";
 
+//installation commands
+//npm i redux react-redux
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
